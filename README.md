@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamroydev&label=Profile%20views&color=0e75b6&style=flat" alt="pritamroydev" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & Python-Pandas** 
 
 - 📫 How to reach me:  **workwithpritamroy@gmail.com**
 
