@@ -31,5 +31,7 @@
 <a href="https://linkedin.com/in/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myselfpritamroy" height="30" width="40" /></a>
 <a href="https://instagram.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myselfpritamroy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@myselfpritamroy" height="30" width="40" /></a>
+<a href="https://dribbble.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="myselfpritamroy" height="30" width="40" /></a>
+
 </p>
 
