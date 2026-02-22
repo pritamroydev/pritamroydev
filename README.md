@@ -2,7 +2,7 @@
 
 ### Turning ideas into code — one repo at a time.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamroydev&label=Profile views&color=0e75b6&style=flat" alt="pritamroydev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamroydev&label=Profile%20views&color=0e75b6&style=flat" alt="pritamroydev" /> </p>
 
 - 🌱 I'm currently learning **Django**
 
@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Fun fact: I try to write DSA concept mostly using anime references**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-theta-ivory-28.vercel.app/#Top](https://portfolio-theta-ivory-28.vercel.app/#Top)**
+- 👨‍💻 All of my projects are available at **[https://portfolio-theta-ivory-28.vercel.app/#Top](https://portfolio-theta-ivory-28.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
 <a href="https://instagram.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myselfpritamroy" height="30" width="40" /></a>
 <a href="https://twitter.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselfpritamroy" height="30" width="40" /></a>
 <a href="https://dribbble.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="myselfpritamroy" height="30" width="40" /></a>
-<a href="https://medium.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="myselfpritamroy" height="30" width="40" /></a>
+<a href="https://medium.com/@myselfpritamroy" target="blank"><img align="center" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" alt="myselfpritamroy" height="30" width="40" /></a>
 <a href="https://youtube.com/myselfpritamroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="myselfpritamroy" height="30" width="40" /></a>
 </p>
 
