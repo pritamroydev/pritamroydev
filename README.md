@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Fun fact: I try to write DSA concept mostly using anime references**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-theta-ivory-28.vercel.app/#Top](https://portfolio-theta-ivory-28.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio-theta-ivory-28.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
